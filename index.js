@@ -6,4 +6,4 @@ var height = "74"
 module.exports = { name, height
 }
 var age = 50
-var last name = jones 
+var last; name = "jones "
